@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&family=Quicksand&family=Moderustic&display=swap');
+
+:root {
+    --font-sil: 'Silkscreen', sans-serif;
+    --font-sand: 'Quicksand', sans-serif;
+    --font-rust: 'Moderustic', sans-serif;
+}
+
+body {
+    font-family: var(--font-sand);
+}
+
+.sil {
+    font-family: var(--font-sil);
+}
+
+.sand {
+    font-family: var(--font-sand);
+}
+
+.rust {
+    font-family: var(--font-rust);
+}
+
